@@ -48,7 +48,7 @@ let boots = {
     activationTime: 0 // Tiempo de activación
 };
 
-let speed = 15; // Velocidad inicial del juego
+let speed = 9; // Velocidad inicial del juego
 
 
 
