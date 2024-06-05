@@ -61,8 +61,8 @@ function update() {
         obstacles.push({
             x: canvas.width,
             y: canvas.height - obstacleHeight - 30, // Move obstacles higher by 100 pixels
-            width: 80,
-            height: 80,
+            width: 90,
+            height: 90,
             type: obstacleType // Asigna el tipo al nuevo obstáculo
         });
     }
